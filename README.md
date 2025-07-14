@@ -4,10 +4,11 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Mechatronics Engineering-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Embedded Systems Engineer-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Machine Learning Engineer-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Freelancer-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Freelancer-4caf50?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Machine%20Learning%20Engineer-007acc?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Mechatronics%20Engineer-f57c00?style=for-the-badge&logo=robotframework&logoColor=white">
+  <img src="https://img.shields.io/badge/Embedded%20Systems%20Engineer-fdd835?style=for-the-badge&logo=raspberrypi&logoColor=black">
+
 </p>
 
 As a **Machine Learning** and **Embedded Systems** Enthusiast, I thrive on mastering the intersection of hardware, software, and intelligent systems. My journey began with programming in C/C++ and Python, leading to a passion for embedded systems, automation, and AI integration. With a strong foundation in data structures, algorithms, and mechatronics, I'm driven to develop smart, efficient solutions, always eager to tackle new challenges and create impactful innovations.
@@ -33,8 +34,8 @@ As a **Machine Learning** and **Embedded Systems** Enthusiast, I thrive on maste
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white">
-  <img src="https://img.shields.io/badge/-HTML-0076A8?style=flat-square&logo=hmtl&logoColor=white">
+  <img src="https://img.shields.io/badge/matlab-%23e16737.svg?style=flat-square&logo=matlab&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-%23e34f26.svg?style=flat-square&logo=html5&logoColor=white">
 </p>
 
 ### 🔹 AI & Machine Learning  
@@ -47,6 +48,7 @@ As a **Machine Learning** and **Embedded Systems** Enthusiast, I thrive on maste
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/streamlit-%23150458.svg?style=flat-square&logo=streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/fastapi-%23009688.svg?style=flat-square&logo=fastapi&logoColor=white">
 </p>
 
 ### 🔹 Embedded Systems  
@@ -74,13 +76,17 @@ As a **Machine Learning** and **Embedded Systems** Enthusiast, I thrive on maste
 - **SMART Garage**: Created a smart garage with a smart door, lighting system, fire alarm system, and parking slot detection using Arduino.
 - **Autonomous Car**: Engineered a multifunctional model featuring line-following, a shooting mechanism, color detection, and gate communication.
 - **Remote Controlled Car**: Created a remote-controlled car using Arduino.
+- **4DOF Inspection Robotic Arm**: Designed and built a 4-degree-of-freedom robotic arm for precision inspection tasks, featuring inverse kinematics, servo, and PID control.
 
 ### 🤖 Machine Learning Projects
 - **Breast Cancer Classification**: Built a machine learning model using Scikit-learn to classify breast cancer cases based on medical data with **98+% accuracy**.
 - **Face Detection System**: Implemented a face detection model using TensorFlow for real-time applications.
+- **Prompt Injection Detection**: Designed a 4-layer defense system against prompt injection attacks using standard checks, heuristic rules, BERT-based classification, and LLM-based evaluation (OpenAI).
+- **Multimodal Nutrition Analysis API**: Developed FastAPI-based endpoints using the Gemini API to analyze nutritional content from text, image, or voice input.
 
 ### 🖥 Programming Projects
 - **Vending Machine Software**: Designed a vending machine system in C++ with Vendor and Customer modes for inventory and purchasing management.
+- **Hotel Booking System**: Developed a Java-based desktop app with admin and customer roles, featuring room management, date validation, filtering, discounts, and real-time GUI updates using JavaFX.
 
 ### 🌐 Web Development Projects
 - **Online Shopping Store Website**: Created an e-commerce platform using Python.
@@ -90,5 +96,5 @@ As a **Machine Learning** and **Embedded Systems** Enthusiast, I thrive on maste
 ![Thanks for visiting](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/omar-fathyy)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:omarttt50@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/omar-fathyz8)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:omarfathyyzz8@gmail.com)
